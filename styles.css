@@ -1,0 +1,19 @@
+* {
+    background-color:lightcoral;
+    padding:0px;
+    margin:5px;
+    box-sizing: border-box;
+}
+
+h1.title {
+    color:black;
+    text-align: center;
+}
+
+.line {
+    border-color: black;
+}
+
+
+
+
