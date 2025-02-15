@@ -1,18 +1,23 @@
 * {
-    background-color:lightcoral;
     padding:0px;
-    margin:5px;
+    margin:0px;
     box-sizing: border-box;
 }
 
-h1.title {
-    color:black;
-    text-align: center;
+.container {
+    display:flex;
+    justify-content:space-around;
+    margin-top: 50px;
 }
 
-.line {
-    border-color: black;
+.title-container {
+    display: flex;
+    justify-content: center;
+    background-color:crimson;
+    padding: 20px;
 }
+
+
 
 
 
